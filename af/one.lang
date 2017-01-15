@@ -1,0 +1,10 @@
+;First untranslated unit because target is same as source
+An untranslated unit because target is same as source
+
+;Second untranslated unit because target is blank
+
+;I'm ok, you're ok, marked with ok
+I'm ok, you're ok, marked with ok {ok}
+
+;I'm a translated unit cause target is different
+I'm a translate unit because I'm different from the source
