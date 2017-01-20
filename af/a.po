@@ -1,0 +1,32 @@
+# Basic PO file with most states, also header is exactly what would come out of
+# pofiler if the source had no header i.e. a default minimal header from TTK.
+#
+# Contributors:
+#   Dwayne Bailey <dwayne@translate.org.za>
+msgstr ""
+msgid ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-17 09:30+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#. Translated unit
+msgid "Translated"
+msgstr "Vertaald"
+
+#: file/untranslated.c
+msgid "Untranslated"
+msgstr ""
+
+#, fuzzy
+msgid "Fuzzy"
+msgstr "Yzzuf"
+
+#~ msgid "Obsolete"
+#~ msgstr "Veroudered"
